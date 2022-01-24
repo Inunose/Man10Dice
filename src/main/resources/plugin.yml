@@ -1,0 +1,8 @@
+name: Man10Dice
+version: '${project.version}'
+main: com.inunose.man10dice.Man10Dice
+api-version: 1.17
+authors: [ Inunose ]
+
+commands:
+  mdice:
